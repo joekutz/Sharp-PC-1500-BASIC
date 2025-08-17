@@ -2,6 +2,14 @@
 
 Here are the Code-Examples that I show in my YouTube-Series about the Sharp PC-1500 Pocket computer. 
 
+## Code-Files:
+
+housepic.bas: Draws a little scene with houses and clouds using the four-color pen printing unit.
+
+![house pic](https://github.com/joekutz/Sharp-PC-1500-BASIC/blob/main/house_pic.png)
+
+kmeans.bas: Implementation of the kmeans-algorithm. Pic comes soon.
+
 ## The videos so far:
 
 ### Fixing the Dock needed for printing and data transfer:
