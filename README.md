@@ -12,7 +12,9 @@ housepic.bas: Draws a little scene with houses and clouds using the four-color p
 
 ![house pic](https://github.com/joekutz/Sharp-PC-1500-BASIC/blob/main/house_pic.png)
 
-kmeans.bas: Implementation of the kmeans-algorithm. Pic comes soon.
+kmeans.bas: Implementation of the kmeans-algorithm. 
+
+![kmeans]https://github.com/joekutz/Sharp-PC-1500-BASIC/blob/main/kmeams_pc1500.jpg
 
 ## The videos so far:
 
