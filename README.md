@@ -2,6 +2,10 @@
 
 Here are the Code-Examples that I show in my YouTube-Series about the Sharp PC-1500 Pocket computer. 
 
+Tools for converting program code into audio files for upload:
+
+http://www.pc1500.com/pc-pocket-transfer.html
+
 ## Code-Files:
 
 housepic.bas: Draws a little scene with houses and clouds using the four-color pen printing unit.
