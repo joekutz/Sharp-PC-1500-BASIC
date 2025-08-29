@@ -18,8 +18,8 @@ https://youtu.be/OhrXYcxFNY8
 
 ### Fixing the dried-out printing pens:
 
-link comes soon :)
+https://youtu.be/t3N8k_GEYL4
 
 ### Interesting quirks of the BASIC dialect and running some data analysis:
 
-link comers soon :)
+link comes soon :)
